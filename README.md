@@ -24,9 +24,6 @@ Social_media_Analysis_PowerBI/
 │ --  overview_dashboard.jpg
 │ --  Engagement.jpg
 │  -- README.md
-```
-
----
 
 Dashboard Features
 
